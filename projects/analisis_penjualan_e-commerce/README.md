@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk menganalisis data transaksi penjualan dari toko e-com
 ```
 analisis_penjualan_e-commerce/
 ├── data/                  # Dataset mentah dan hasil cleaning
-│   └── ecommerce_sales.csv
+│   └── Online Retail.xlsx
 │
 ├── notebooks/             # Notebook eksplorasi dan visualisasi
 │   └── eda.ipynb
