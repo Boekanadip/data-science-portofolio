@@ -6,14 +6,14 @@
 🔹 Membersihkan dan menganalisis data sederhana.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.  
 
-### [Web Scraping and Cleaning data](projects/Data_Wrangling_and_Cleaning)  
-🔹 
-🔹 
+### [Web Scraping and Cleaning data](projects/web_scrap)  
+🔹 Membuat sistem pengambilan data komentar YouTube yang relevan dengan topik tertentu.  
+🔹 Teknologi yang Digunakan Python, YouTube Data API v3, Pandas, TextBlob, Scikit-learn, BeautifulSoup, Streamlit, Matplotlib & WordCloud.
 
 ### [Analisis Penjualan E-Commerce](projects/analisis_penjualan) (SOON) 
-🔹 Membersihkan data (menghapus duplikasi, menangani nilai kosong, dan mengonversi tipe data)
+🔹 Membersihkan data (menghapus duplikasi, menangani nilai kosong, dan mengonversi tipe data).  
 🔹 Menganalisis data (melihat pola transaksi, produk terlaris, waktu puncak penjualan) transaksi e-commerce.  
-🔹 Menggunakan Python, Pandas, dan Matplotlib.  
+🔹 Menggunakan Python, Pandas, dan Matplotlib.   
 
 ### [Prediksi Harga Rumah](projects/prediksi_harga) (SOON) 
 🔹 Model prediktif harga rumah menggunakan Scikit-learn.  
