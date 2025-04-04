@@ -5,9 +5,14 @@
 ### [Wrangling and Cleaning](projects/Data_Wrangling_and_Cleaning)  
 🔹 Membersihkan dan menganalisis data sederhana.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.  
-  
+
+### [Web Scraping and Cleaning data](projects/Data_Wrangling_and_Cleaning)  
+🔹 
+🔹 
+
 ### [Analisis Penjualan E-Commerce](projects/analisis_penjualan) (SOON) 
-🔹 Membersihkan dan menganalisis dataset transaksi e-commerce.  
+🔹 Membersihkan data (menghapus duplikasi, menangani nilai kosong, dan mengonversi tipe data)
+🔹 Menganalisis data (melihat pola transaksi, produk terlaris, waktu puncak penjualan) transaksi e-commerce.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.  
 
 ### [Prediksi Harga Rumah](projects/prediksi_harga) (SOON) 
