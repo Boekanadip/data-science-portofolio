@@ -19,7 +19,7 @@ Dalam dunia Data Science dan Data Analytics, data yang diperoleh sering kali tid
 ## 🚀 Cara Menjalankan Proyek
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/Boekanadip/data-science-portofolio/projects/data-wrangling-cleaning.git
+   git clone https://github.com/Boekanadip/data-science-portofolio/projects/data_wrangling_and_cleaning.git
    cd data-wrangling-cleaning
    ```
 2. Install dependensi:
