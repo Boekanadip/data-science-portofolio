@@ -71,10 +71,3 @@ Untuk menggunakan YouTube Data API:
 Dikembangkan oleh [Adib Raihan Ashidiq]  
 Email: adib.raihann@gmail.com  
 GitHub: (https://github.com/Boekanadip)
-
----
-
-## ✅ License
-
-This project is licensed under the MIT License.
-```
