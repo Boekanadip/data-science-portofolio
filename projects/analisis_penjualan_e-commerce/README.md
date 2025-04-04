@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk menganalisis data transaksi penjualan dari toko e-com
 ## 🗂️ Struktur Proyek
 
 ```
-ecommerce-sales-analysis/
+analisis_penjualan_e-commerce/
 ├── data/                  # Dataset mentah dan hasil cleaning
 │   └── ecommerce_sales.csv
 │
