@@ -1,7 +1,7 @@
 import pandas as pd
 
 def load_and_clean_data(filepath):
-    df = pd.read_csv(filepath)
+    df = pd.read_excel(filepath)
     
     # Drop missing values
     df.dropna(inplace=True)
@@ -19,5 +19,5 @@ def load_and_clean_data(filepath):
 
 if __name__ == "__main__":
     df_clean = load_and_clean_data("data/Online_Retail.xlsx")
-    df_clean.to_csv("data/Online_Retail.xlsx", index=False)
+    df_clean.to_excel("data/Online_Retail.xlsx", index=False)
     print("Data berhasil dibersihkan dan disimpan.")
