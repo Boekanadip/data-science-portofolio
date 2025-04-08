@@ -18,6 +18,6 @@ def load_and_clean_data(filepath):
     return df
 
 if __name__ == "__main__":
-    df_clean = load_and_clean_data("data/ecommerce_sales.csv")
-    df_clean.to_csv("data/ecommerce_sales_cleaned.csv", index=False)
+    df_clean = load_and_clean_data("data/Online_Retail.xlxs")
+    df_clean.to_csv("data/Online_Retail.xlxs", index=False)
     print("Data berhasil dibersihkan dan disimpan.")
