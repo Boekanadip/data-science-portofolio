@@ -21,12 +21,11 @@ https://github.com/Boekanadip/loan-eligibility-prediction
 🔹 Menganalisis data (melihat pola transaksi, produk terlaris, waktu puncak penjualan) transaksi e-commerce.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.   
 
-### [Prediksi Harga Rumah](projects/prediksi_harga) (SOON) 
-🔹 Model prediktif harga rumah menggunakan Scikit-learn.  
-🔹 Menggunakan algoritma regresi linier dan random forest.  
+### 📰 Indonesian Hoax Detection using IndoBERT *(Coming Soon)*
+Proyek skripsi mengenai deteksi berita hoaks berbahasa Indonesia menggunakan IndoBERT, Autoencoder, dan Gaussian Mixture Model (GMM), dilengkapi dengan aplikasi berbasis Streamlit.
 
+---
 ## 💻 Proyek Pengembangan Web
-
 ### ☕ Cafe CRUD Web App
 Aplikasi web manajemen kafe yang dikembangkan menggunakan PHP, MySQL, HTML, CSS, dan JavaScript. Memiliki fitur autentikasi pengguna, pengelolaan menu, reservasi meja, serta dashboard admin untuk mengelola data.
 
@@ -35,7 +34,28 @@ https://github.com/Boekanadip/cafe-crud-web-app
 
 ---
 
-## 🛠 Teknologi yang Digunakan  
-✅ Python, Pandas, NumPy  
-✅ Matplotlib, Seaborn, Scikit-learn  
-✅ Jupyter Notebook  
+## 🛠️ Tech Stack
+**Programming Languages**
+- Python
+- SQL
+- PHP
+
+**Data Science**
+- Pandas
+- NumPy
+- Scikit-learn
+- PyTorch
+- Streamlit
+- Matplotlib
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- Google Colab
+- Jupyter Notebook
+---
+
+⭐ Terima kasih telah mengunjungi portofolio saya. Kritik, saran, maupun kolaborasi sangat saya apresiasi.
