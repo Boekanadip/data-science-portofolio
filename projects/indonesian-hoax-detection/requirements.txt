@@ -1,0 +1,13 @@
+sentencepiece
+accelerate
+numpy
+feedparser
+faiss-cpu
+torch
+transformers
+pandas
+scikit-learn
+joblib
+streamlit
+tqdm
+openpyxl
