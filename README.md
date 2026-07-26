@@ -16,7 +16,7 @@ Membangun model Machine Learning untuk memprediksi kelayakan pinjaman nasabah me
 🔗 Repository:  
 https://github.com/Boekanadip/loan-eligibility-prediction
 
-### [Analisis Penjualan E-Commerce](projects/analisis_penjualan) (SOON) 
+### [Analisis Penjualan E-Commerce](projects/analisis_penjualan)
 🔹 Membersihkan data (menghapus duplikasi, menangani nilai kosong, dan mengonversi tipe data).  
 🔹 Menganalisis data (melihat pola transaksi, produk terlaris, waktu puncak penjualan) transaksi e-commerce.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.   
