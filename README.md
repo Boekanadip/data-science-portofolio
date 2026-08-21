@@ -21,24 +21,14 @@ https://github.com/Boekanadip/loan-eligibility-prediction
 🔹 Menganalisis data (melihat pola transaksi, produk terlaris, waktu puncak penjualan) transaksi e-commerce.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.   
 
-### 📰 Indonesian Hoax Detection using IndoBERT *(Coming Soon)*
+### 📰 Indonesian Hoax Detection using IndoBERT
 Proyek skripsi mengenai deteksi berita hoaks berbahasa Indonesia menggunakan IndoBERT, Autoencoder, dan Gaussian Mixture Model (GMM), dilengkapi dengan aplikasi berbasis Streamlit.
-
----
-## 💻 Proyek Pengembangan Web
-### ☕ Cafe CRUD Web App
-Aplikasi web manajemen kafe yang dikembangkan menggunakan PHP, MySQL, HTML, CSS, dan JavaScript. Memiliki fitur autentikasi pengguna, pengelolaan menu, reservasi meja, serta dashboard admin untuk mengelola data.
-
-🔗 Repository:  
-https://github.com/Boekanadip/cafe-crud-web-app
-
 ---
 
 ## 🛠️ Tech Stack
 **Programming Languages**
 - Python
 - SQL
-- PHP
 
 **Data Science**
 - Pandas
@@ -48,14 +38,12 @@ https://github.com/Boekanadip/cafe-crud-web-app
 - Streamlit
 - Matplotlib
 
-**Database**
-- MySQL
 
 **Tools**
 - Git
 - GitHub
 - Google Colab
-- Jupyter Notebook
+- Visual Studi Code/Jupyter Notebook
 ---
 
 ⭐ Terima kasih telah mengunjungi portofolio saya. Kritik, saran, maupun kolaborasi sangat saya apresiasi.
