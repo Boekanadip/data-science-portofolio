@@ -10,7 +10,7 @@
 🔹 Membuat sistem pengambilan data komentar YouTube yang relevan dengan topik tertentu.  
 🔹 Teknologi yang Digunakan Python, YouTube Data API v3, Pandas, TextBlob, Scikit-learn, BeautifulSoup, Streamlit, Matplotlib & WordCloud.
 
-### 🏦 Loan Eligibility Prediction
+### 🏦 [Loan Eligibility Prediction]
 Membangun model Machine Learning untuk memprediksi kelayakan pinjaman nasabah menggunakan sekitar 60.000 data pelanggan. Proyek meliputi Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, pembangunan model, dan evaluasi performa.
 
 🔗 Repository:  
@@ -21,7 +21,7 @@ https://github.com/Boekanadip/loan-eligibility-prediction
 🔹 Menganalisis data (melihat pola transaksi, produk terlaris, waktu puncak penjualan) transaksi e-commerce.  
 🔹 Menggunakan Python, Pandas, dan Matplotlib.   
 
-### 📰 Indonesian Hoax Detection using IndoBERT
+### 📰 [Indonesian Hoax Detection using IndoBERT](projects/indonesian-hoax-detection)
 Proyek skripsi mengenai deteksi berita hoaks berbahasa Indonesia menggunakan IndoBERT, Autoencoder, dan Gaussian Mixture Model (GMM), dilengkapi dengan aplikasi berbasis Streamlit.
 ---
 
